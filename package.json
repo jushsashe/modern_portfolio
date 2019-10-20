@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "My Responsive portfolio",
   "main": "index.js",
-  "homepage": "https://jushsashe.github.io/My_Portfolio",
+  "homepage": "https://jushsashe.github.io/modern_portfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
